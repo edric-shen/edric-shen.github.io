@@ -1,2 +1,4 @@
 name: Edric Shen
 markdown: kramdown
+
+theme: jekyll-theme-architect
