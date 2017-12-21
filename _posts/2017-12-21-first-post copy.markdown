@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MapReduce"
+title:  "MapReduce实现Text转ORC"
 date:   2017-12-21 22:18:42 +0800
 categories: Hadoop
 tags: MapReduce
