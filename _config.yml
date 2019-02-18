@@ -16,7 +16,7 @@ permalink: /:year/:month/:day/:title/
 twitter_username: 
 facebook_username: 
 github_username:  edric-shen
-email: zhibin.shen@gmail.com
+email: shenzhibin@gmail.com
 weibo_username: 
 zhihu_username: 
 linkedIn_username: 
@@ -34,7 +34,7 @@ disqus_shortname: edric-shen
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: 
+baidu_tongji_id: c0e0b96ede0507cb1e2ebce07e33cc11
 google_analytics_id:  # google 分析追踪id
 
 # Build settings
